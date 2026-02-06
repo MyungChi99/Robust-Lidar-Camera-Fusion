@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.env
+
+# Large dataset files
+*.bin
+*.ply
+*.pcd
+
+# Model checkpoints
+*.pth
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

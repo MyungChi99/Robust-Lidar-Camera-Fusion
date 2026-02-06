@@ -1,0 +1,7 @@
+torch
+torch-geometric
+numpy
+open3d
+carla
+spconv-cu11x
+pcdet
