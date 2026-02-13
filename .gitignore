@@ -3,9 +3,13 @@ venv/
 .env
 
 # Large dataset files
+data/
 *.bin
 *.ply
 *.pcd
+
+# Claude Code
+.claude/
 
 # Model checkpoints
 *.pth
